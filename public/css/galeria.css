@@ -34,7 +34,7 @@ footer {
     text-align: center;
     box-shadow: 4px 4px 15px rgb(58, 58, 58);
     margin: 0 auto;
-    position: fixed;
+    
     left: 0;
     bottom: 0;
     width: 100%;
@@ -91,9 +91,7 @@ footer {
 
   /* Estilos para tablet */
   @media only screen and (max-width: 768px) {
-    footer{
-      position: relative;
-    }
+    
 
   }
 
